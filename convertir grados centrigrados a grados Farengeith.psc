@@ -1,7 +1,7 @@
 Algoritmo sin_titulo
 	
 	c = 0 
-	f= 0 
+	f = 0 
 	
 	Escribir "Escrbe los grados celsius"
 	
